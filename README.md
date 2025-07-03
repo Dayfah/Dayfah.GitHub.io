@@ -6,7 +6,7 @@ I'm a visual artist, photographer, streamer, and mad scientist building cool thi
 ## 🎨 My Work
 
 - **Photography:** [Dayfah’s Space](https://link-to-gallery.com)
-- **Streaming:** [TheSpeakEasy on Twitch](https://twitch.tv/TheSpeakEasy)
+- **Streaming:** [TheSpeakEasy on Twitch](https://twitch.tv/dayfah)
 - **AI Assistant Project:** [A.R.I.A. on GitHub](https://github.com/dayfah/aria)
 
 ## 🔧 Skills
